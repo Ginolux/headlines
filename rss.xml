@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 12 Dec 2017 19:49:33 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Salford house fire 'targeted attack']]></title>
+            <description><![CDATA[A house fire in Salford which killed three children was a "targeted attack", police have said.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-manchester-42330736</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-manchester-42330736</guid>
+            <pubDate>Tue, 12 Dec 2017 17:40:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11497/production/_99170807_brandonlaciecrunknown.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Roy Moore faces verdict of voters in Alabama Senate election]]></title>
+            <description><![CDATA[President Trump's populist brand faces a test as he backs a Republican accused of child abuse.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-42322293</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-42322293</guid>
+            <pubDate>Tue, 12 Dec 2017 17:44:40 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/397E/production/_99181741_hi043549337.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New York bombing suspect Akayed Ullah warned Trump on Facebook]]></title>
+            <description><![CDATA[Akayed Ullah, 27, faces a series of terror charges over Monday's bus terminal attack in New York.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-42327359</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-42327359</guid>
+            <pubDate>Tue, 12 Dec 2017 17:21:10 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/F97B/production/_99176836_de27.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Row over 'smell of cannabis' police stops]]></title>
+            <description><![CDATA[Some officers disagree with guidance not to search people purely because they smell of cannabis.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-42329124</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-42329124</guid>
+            <pubDate>Tue, 12 Dec 2017 18:33:26 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11E59/production/_98150337_stop-search_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Levi Bellfield raped me hundreds of times,' says ex-partner]]></title>
+            <description><![CDATA[Jo Collings, Bellfield's former partner, says "whatever he wanted to do, he did".]]></description>
+            <link>http://www.bbc.co.uk/news/uk-42323966</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-42323966</guid>
+            <pubDate>Tue, 12 Dec 2017 10:51:20 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/F967/production/_99174836_p05qvj4h.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Interstellar asteroid checked for alien technology]]></title>
+            <description><![CDATA[A project searching for life in the cosmos will scan the first interstellar asteroid for signs of alien technology.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-42329244</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-42329244</guid>
+            <pubDate>Tue, 12 Dec 2017 16:51:30 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/157B3/production/_99178978_mediaitem99178976.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Donald Tusk calls Brexit talks a furious race against time]]></title>
+            <description><![CDATA[The European Council's president urges EU countries to show "unity" in the next phase of talks.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-42322187</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-42322187</guid>
+            <pubDate>Tue, 12 Dec 2017 19:05:24 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4B57/production/_99178291_89167dab-1d78-45ef-9913-8649967546cf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK snow: Travellers struggle as icy conditions persist]]></title>
+            <description><![CDATA[Wintry conditions continue to cause delays for travellers as hundreds of schools remain closed.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-42318755</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-42318755</guid>
+            <pubDate>Tue, 12 Dec 2017 18:48:40 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/ED23/production/_99170706_snow_commute_pa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Toni Mascolo, co-founder of salon chain Toni & Guy, dies]]></title>
+            <description><![CDATA[Italian-born hairdresser who built his south London salon into a global chain dies]]></description>
+            <link>http://www.bbc.co.uk/news/uk-42330761</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-42330761</guid>
+            <pubDate>Tue, 12 Dec 2017 19:14:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B048/production/_99182154_000734800.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Monster' fatberg to go on display in museum]]></title>
+            <description><![CDATA[A slice of a monster fatberg, clogging up London's sewers, is going on display in a museum.]]></description>
+            <link>http://www.bbc.co.uk/news/education-42324932</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-42324932</guid>
+            <pubDate>Tue, 12 Dec 2017 16:23:11 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/254B/production/_99174590_fatberg2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marine flare explodes at Waterbeach recycling centre]]></title>
+            <description><![CDATA[The marine flare goes off as a worker at a recycling centre is sifting through waste.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-cambridgeshire-42331451</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-cambridgeshire-42331451</guid>
+            <pubDate>Tue, 12 Dec 2017 17:26:03 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/EAD6/production/_99181106_p05qwnm2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HIV positive man unable to become a commercial pilot]]></title>
+            <description><![CDATA[He said it was "utterly devastating" to discover that he could not join an airline's training scheme.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-42325414</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-42325414</guid>
+            <pubDate>Tue, 12 Dec 2017 14:38:16 GMT</pubDate>
+            <media:thumbnail width="970" height="546" url="http://c.files.bbci.co.uk/BA97/production/_99176774_pilots1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Netflix defends A Christmas Prince tweet]]></title>
+            <description><![CDATA[The platform sent a tweet addressing the "53 people" that have watched the film 18 days in a row.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-42323366</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-42323366</guid>
+            <pubDate>Tue, 12 Dec 2017 12:58:44 GMT</pubDate>
+            <media:thumbnail width="464" height="261" url="http://c.files.bbci.co.uk/12B03/production/_99174567_gettyimages-455692394.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Star Wars: The Last Jedi has critics in raptures]]></title>
+            <description><![CDATA[The latest film in the sci-fi saga gets glowing reviews ahead of its European premiere in London.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-42327904</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-42327904</guid>
+            <pubDate>Tue, 12 Dec 2017 18:02:13 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4639/production/_99177971_ridley1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maradona statue: When football sculptures go wrong]]></title>
+            <description><![CDATA[A wild-haired statue of footballing legend Maradona has been unveiled in India.]]></description>
+            <link>http://www.bbc.co.uk/news/world-42326294</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-42326294</guid>
+            <pubDate>Tue, 12 Dec 2017 13:17:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11DCF/production/_99176137_p05qw03b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diabetes nightmare: A hypoglycemic attack on air]]></title>
+            <description><![CDATA[When Alex Ritson's blood sugar dropped, he was glad his team at the BBC World Service knew what to do.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-42316493</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-42316493</guid>
+            <pubDate>Tue, 12 Dec 2017 12:30:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1021D/production/_99177066_alexinnewsstudio.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Katie Price breaks down over what could be 'last Christmas' with her mum]]></title>
+            <description><![CDATA[The star's mother is suffering from the same incurable lung disease that killed Keith Chegwin.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-42324335</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-42324335</guid>
+            <pubDate>Tue, 12 Dec 2017 16:54:54 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/14B97/production/_99178848_shutterstock_editorial_9285467b_huge.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['That's where the babies are suffering']]></title>
+            <description><![CDATA[Are campaigners standing outside abortion centres harassing women?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-42322016</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-42322016</guid>
+            <pubDate>Tue, 12 Dec 2017 10:31:57 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/13BA7/production/_99170808_p05qv503.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grenfell fire: Survivors still living in hotels]]></title>
+            <description><![CDATA[Tiago Alves says he feels he is living in limbo, six months after the tragedy.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-42320666</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-42320666</guid>
+            <pubDate>Tue, 12 Dec 2017 11:18:37 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/15CF9/production/_99173398_p05qvm5v.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Older women less likely to report sexual harrassment]]></title>
+            <description><![CDATA[Older women are less likely to report sexual harassment incidents, a BBC survey has found.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-42313088</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-42313088</guid>
+            <pubDate>Mon, 11 Dec 2017 23:13:20 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/329C/production/_99165921_p05qrl0q.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Newport brewery Tiny Rebel must change beer can design]]></title>
+            <description><![CDATA[Tiny Rebel is told psychedelic cans for one of its beers are "too attractive" to children.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-south-east-wales-42321674</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-south-east-wales-42321674</guid>
+            <pubDate>Tue, 12 Dec 2017 11:37:28 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17C39/production/_99173379_wns_121217_real_ale_pop_can_02.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News Channel]]></title>
+            <description><![CDATA[BBC coverage of latest developments]]></description>
+            <link>http://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Fri, 17 Nov 2017 07:22:39 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
+        </item>
+        <item>
+            <title><![CDATA[I went driving and motorbiking in my sleep]]></title>
+            <description><![CDATA[Sleepwalking can be risky, but sleep-driving raises the dangers to a whole new level.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-42267790</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-42267790</guid>
+            <pubDate>Mon, 11 Dec 2017 23:36:34 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0EE5/production/_99131830_jackiesidecar.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The man searching for the 14 people with his rare cancer]]></title>
+            <description><![CDATA[Kevin O'Neill is one of 15 people in the world with malignant myopericytoma - and he wants to trace the others.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-42322586</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-42322586</guid>
+            <pubDate>Tue, 12 Dec 2017 12:25:42 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/18391/production/_99171299_img_2012.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[After Weinstein, Trump sexual misconduct accusers demand action]]></title>
+            <description><![CDATA[More than a dozen women have accused Donald Trump of sexual misconduct. Now, in the moment of #MeToo, how do they feel?]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-42314700</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-42314700</guid>
+            <pubDate>Tue, 12 Dec 2017 01:18:22 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1498E/production/_99166348_p05qt68w.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin: Does it really use more electricity than Ireland?]]></title>
+            <description><![CDATA[Does the crypto-currency Bitcoin really use more electricity than Ireland?]]></description>
+            <link>http://www.bbc.co.uk/news/technology-42265728</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-42265728</guid>
+            <pubDate>Tue, 12 Dec 2017 00:25:02 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/D2EB/production/_99159935_gettyimages-475512645.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Laurent Wauquiez: Right-winger is French opposition hope against Macron]]></title>
+            <description><![CDATA[Laurent Wauquiez will lead the Republicans as the party tries to pick up the pieces, writes the BBC's Hugh Schofield in Paris.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-42310937</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-42310937</guid>
+            <pubDate>Tue, 12 Dec 2017 00:03:25 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/51C8/production/_99163902_mediaitem99163901.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meet India's dam-building grandmother]]></title>
+            <description><![CDATA[The female social entrepreneur buildings dams for farms and villages across Rajasthan, India.]]></description>
+            <link>http://www.bbc.co.uk/news/business-42055000</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-42055000</guid>
+            <pubDate>Tue, 12 Dec 2017 00:26:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F19E/production/_98845816_13.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Viewpoint: India court disregards woman's right to choose husband]]></title>
+            <description><![CDATA[The courts are questioning a Hindu woman's decision to convert to Islam and marry a Muslim man.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-india-42276719</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-india-42276719</guid>
+            <pubDate>Tue, 12 Dec 2017 00:17:16 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/185EE/production/_99122899_lj1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Tyson Fury free to resume boxing career after compromise reached with Ukad]]></title>
+            <description><![CDATA[Tyson Fury is free to resume his boxing career after reaching an agreement over a backdated two-year doping ban.]]></description>
+            <link>http://www.bbc.co.uk/sport/boxing/42329394</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/boxing/42329394</guid>
+            <pubDate>Tue, 12 Dec 2017 18:16:39 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/114F1/production/_99179807_gettyimages-524862706.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pep Guardiola: Man City boss says players did not over-celebrate at Man Utd]]></title>
+            <description><![CDATA[Man City boss Pep Guardiola "encouraged" his side to celebrate Sunday's 2-1 win over Man Utd but denies they went over the top.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/42320843</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/42320843</guid>
+            <pubDate>Tue, 12 Dec 2017 15:09:30 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/140C6/production/_99181128_guardiola_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bobby Clay - the 20-year-old GB runner living with osteoporosis]]></title>
+            <description><![CDATA[BBC Sport meets Bobby Clay - a middle-distance runner with osteoporosis, who is warning others of the dangers of over-training and under-eating.]]></description>
+            <link>http://www.bbc.co.uk/sport/athletics/42324847</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/athletics/42324847</guid>
+            <pubDate>Tue, 12 Dec 2017 17:03:08 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/68D5/production/_99173862_p05qwmxj.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lewis Hamilton: BBC Sports Personality 2017 contender]]></title>
+            <description><![CDATA[F1 driver won a fourth world title - profile of Sports Personality nominee.]]></description>
+            <link>http://www.bbc.co.uk/sport/sports-personality/42279502</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/sports-personality/42279502</guid>
+            <pubDate>Tue, 12 Dec 2017 08:00:53 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/EE72/production/_99124016_4hamilton_profile.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ashes: Ben Duckett incident 'not malicious' says James Anderson]]></title>
+            <description><![CDATA[England bowler James Anderson says Ben Duckett pouring a drink over him in a Perth bar was "not malicious" and a "bit of a non-event".]]></description>
+            <link>http://www.bbc.co.uk/sport/cricket/42326743</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/42326743</guid>
+            <pubDate>Tue, 12 Dec 2017 13:26:00 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/F2A6/production/_99181126_anderson.jpg"/>
+        </item>
+    </channel>
+</rss>
