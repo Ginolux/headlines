@@ -12,6 +12,19 @@
 
   <body>
     <div class="container">
+      </br></br>
+      <form action="/" method="POST">
+        <div class="form-group row">
+          <label for="search-input" class="col-1 col-form-label">Search:</label>
+          <div class="col-8">
+            <input class="form-control" type="search" id="search-input" placeholder="bbc, cnn, fox, iol, bloomberg, jw" name="publication">
+          </div>
+          <div class="col-3">
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </div>
+        </div>
+      </form>
+
       <h1>{{publication.upper()}} Headlines</h1>
       {% for article in articles %}
         <b><a href="{{article.link}}">{{article.title}}</a></b> </br>
