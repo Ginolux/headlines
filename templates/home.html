@@ -12,7 +12,7 @@
 
   <body>
     <div class="container">
-      <h1>Headlines</h1>
+      <h1>{{publication.upper()}} Headlines</h1>
       {% for article in articles %}
         <b><a href="{{article.link}}">{{article.title}}</a></b> </br>
         <i>{{article.published}}</i> </br>
