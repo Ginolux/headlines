@@ -18,7 +18,7 @@ RSS_FEEDS = {'bbc': 'http://feeds.bbci.co.uk/news/rss.xml',
 
 app = Flask(__name__)
 
-#@app.route("/")
+@app.route("/")
 #@app.route("/", methods=['GET', 'POST'])
 @app.route("/<publication>")
 def get_news(publication="bbc"):
