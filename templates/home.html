@@ -14,12 +14,26 @@
     <div class="container">
       </br></br>
 
-      <ul class="list-group mb-5">
-        <li class="list-group-item list-group-item-primary"><h1>Current weather in {{weather.city}}</h1></li>
+
+      <div class="btn-group" role="group">
+        <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Choose City
+        </button>
+        <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+          <a class="dropdown-item" href="?city=dublin,ie">Dublin</a>
+          <a class="dropdown-item" href="?city=lome,tg">Lome</a>
+          <a class="dropdown-item" href="?city=paris,fr">Paris</a>
+          <a class="dropdown-item" href="?city=taipei,tw">Taipei</a>
+          <a class="dropdown-item" href="?city=bordeaux,fr">Bordeaux</a>
+        </div>
+      </div>
+
+      <ul class="list-group mb-5 mt-3">
+        <li class="list-group-item list-group-item-primary"><h1>Current weather in {{weather.city}} | <b>{{weather.temp_avg}}&#8451;</b></h1></li>
         <li class="list-group-item">Status: <b>{{weather.status}}</b></li>
         <li class="list-group-item">Temperature: avg: <b>{{weather.temp_avg}}&#8451;</b> | min: <b>{{weather.temp_min}}&#8451;</b> | max: <b>{{weather.temp_max}}&#8451;</b></li>
         <li class="list-group-item">Humidity: <b>{{weather.humidity}}</b></li>
-        <li class="list-group-item">Wind: speed: <b>{{weather.wind.speed}}</b> | deg: <b>{{weather.wind.speed}}</b></li>
+        <li class="list-group-item">Wind: speed: <b>{{weather.wind_speed}}</b> | deg: <b>{{weather.wind_dir}}</b></li>
         <li class="list-group-item">Cloud coverage: <b>{{weather.cloud}}</b> | Rain vol: <b>{{weather.rain}}</b> | Snow vol: <b>{{weather.snow}}</b></li>
       </ul>
 
@@ -38,7 +52,7 @@
       </div>
 
 
-      <div class="alert alert-primary mt-4" role="alert">
+      <div class="alert alert-primary mt-3" role="alert">
         <h1>{{publication.upper()}} Headlines</h1>
       </div>
 

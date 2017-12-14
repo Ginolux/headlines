@@ -19,11 +19,16 @@ RSS_FEEDS = {'bbc': 'http://feeds.bbci.co.uk/news/rss.xml',
 app = Flask(__name__)
 
 @app.route("/")
-#@app.route("/", methods=['GET', 'POST'])
+@app.route("/", methods=['GET', 'POST'])
 @app.route("/<publication>")
-def get_news(publication="bbc"):
+def get_news(publication="bbc", city=None):
     feed = feedparser.parse(RSS_FEEDS[publication])
-    weather = owm_weather('dublin,ie')
+    place = request.args.get("city")
+    if place is None:
+        weather = owm_weather("dublin,ie")
+    else:
+        place = request.args.get("city")
+        weather = owm_weather(place)
     return render_template("home.html", articles=feed['entries'], publication=publication, weather=weather)
 
 def owm_weather(place):
@@ -35,7 +40,8 @@ def owm_weather(place):
                 "temp_avg": w.get_temperature('celsius')['temp'],
                 "temp_min": w.get_temperature('celsius')['temp_min'],
                 "temp_max": w.get_temperature('celsius')['temp_max'],
-                "wind": w.get_wind(),
+                "wind_speed": w.get_wind()['speed'],
+                "wind_dir": w.get_wind()['deg'],
                 "humidity": w.get_humidity(),
                 "cloud": w.get_clouds(),
                 "rain": w.get_rain(),
