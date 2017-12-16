@@ -16,6 +16,12 @@ RSS_FEEDS = {'bbc': 'http://feeds.bbci.co.uk/news/rss.xml',
              'jw': 'https://www.jw.org/en/news/rss/FullNewsRSS/feed.xml',
              'bloomberg': 'https://www.bloomberg.com/professional/feed/'}
 
+list_cities = {'Dublin': '?city=dublin,ie',
+                'Lome': '?city=lome,tg',
+                'Paris': '?city=paris,fr',
+                'Taipei': '?city=taipei,tw',
+                'Bordeaux': '?city=bordeaux'}
+
 app = Flask(__name__)
 
 @app.route("/")
@@ -29,7 +35,7 @@ def get_news(publication="bbc", city=None):
     else:
         place = request.args.get("city")
         weather = owm_weather(place)
-    return render_template("home.html", articles=feed['entries'], publication=publication, weather=weather)
+    return render_template("home.html", articles=feed['entries'], publication=publication, weather=weather, cities=list_cities)
 
 def owm_weather(place):
     owm = pyowm.OWM('00cccd274676fd2894b078e918a328bb')

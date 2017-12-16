@@ -14,22 +14,19 @@
     <div class="container">
       </br></br>
 
-
       <div class="btn-group" role="group">
         <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Choose City
         </button>
         <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
-          <a class="dropdown-item" href="?city=dublin,ie">Dublin</a>
-          <a class="dropdown-item" href="?city=lome,tg">Lome</a>
-          <a class="dropdown-item" href="?city=paris,fr">Paris</a>
-          <a class="dropdown-item" href="?city=taipei,tw">Taipei</a>
-          <a class="dropdown-item" href="?city=bordeaux,fr">Bordeaux</a>
+          {% for key, value in cities.iteritems() %}
+            <a class="dropdown-item" href="{{value}}">{{key}}</a>
+          {% endfor %}
         </div>
       </div>
 
       <ul class="list-group mb-5 mt-3">
-        <li class="list-group-item list-group-item-primary"><h1>Current weather in {{weather.city}} | <b>{{weather.temp_avg}}&#8451;</b></h1></li>
+        <li class="list-group-item list-group-item-primary"><h2>Current weather in {{weather.city}} | <b>{{weather.temp_avg}}&#8451;</b></h2></li>
         <li class="list-group-item">Status: <b>{{weather.status}}</b></li>
         <li class="list-group-item">Temperature: avg: <b>{{weather.temp_avg}}&#8451;</b> | min: <b>{{weather.temp_min}}&#8451;</b> | max: <b>{{weather.temp_max}}&#8451;</b></li>
         <li class="list-group-item">Humidity: <b>{{weather.humidity}}</b></li>
