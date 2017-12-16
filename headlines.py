@@ -56,7 +56,7 @@ def owm_weather(place):
 @app.route('/useragent')
 def useragent():
     user_agent = request.headers.get('User-Agent')
-    return '<h2>Your browser is: %s</h1>' % user_agent 
+    return '<h1>Your browser is: %s</h1>' % user_agent 
 
 
 if __name__ == "__main__":
