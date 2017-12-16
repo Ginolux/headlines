@@ -2,10 +2,6 @@ import feedparser
 from flask import Flask
 from flask import render_template
 from flask import request
-import json
-import urllib2
-import urllib
-
 import pyowm
 
 
@@ -23,6 +19,7 @@ list_cities = {'Dublin': '?city=dublin,ie',
                 'Bordeaux': '?city=bordeaux'}
 
 app = Flask(__name__)
+
 
 @app.route("/")
 @app.route("/", methods=['GET', 'POST'])
@@ -55,6 +52,11 @@ def owm_weather(place):
                 "city": l.get_name()
                 }
     return weather
+
+@app.route('/useragent')
+def useragent():
+    user_agent = request.headers.get('User-Agent')
+    return '<h2>Your browser is: %s</h1>' % user_agent 
 
 
 if __name__ == "__main__":
